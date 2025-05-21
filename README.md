@@ -1,2 +1,2 @@
 # vuyosdatacleaningproject
-I cleaned a large dataset
+Data cleaning project. My process in terms of cleaning the data includes the following: removing of duplicates,standardizing data types,deleting useless records with too many nulls and blanks too the point where no valueable insights can be made from them,removing useless columns. After this my data was clean and I am now able to get valuable insights from the data using exploratory data analysis techniques. 
